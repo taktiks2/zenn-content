@@ -16,6 +16,8 @@ published_at: "2026-01-25 20:30"
 この記事のコードサンプルは以下のリポジトリで公開しています。
 [https://github.com/taktiks2/bevy-life](https://github.com/taktiks2/bevy-life)
 
+---
+
 ## Bevy Engineの紹介
 
 ### Bevy Engineとは
@@ -52,6 +54,8 @@ ECSは、ゲーム開発における設計パターンの一つで、以下の3�
 - データとロジックが分離されており保守性が高い
 - 再利用性が高い（コンポーネントを組み合わせて新しいエンティティを作成）
 - 大量のオブジェクトを扱う際のパフォーマンスが良い
+
+---
 
 ## 環境構築
 
@@ -92,6 +96,8 @@ fn hello_world() {
 
 `cargo run`を実行して、"Hello, World!"が表示されれば成功です。
 
+---
+
 ## ライフゲームのルール説明
 
 ### ライフゲームの基本ルール
@@ -118,6 +124,8 @@ fn hello_world() {
 □ ■ □
 ■ □ □
 ```
+
+---
 
 ## ステップバイステップ実装
 
@@ -615,6 +623,8 @@ fn main() {
 
 この状態で`cargo run`を実行し、スペースキーを押すと、グライダーパターンが1世代ずつ進み、斜め方向に移動していく様子が確認できます。
 
+---
+
 ## まとめ
 
 お疲れさまでした！この記事では、Bevy Engineを使って、シンプルながら奥深いライフゲームを実装しました。
@@ -625,6 +635,8 @@ fn main() {
 - 初期パターン集：ビーハイブ、ボート、パルサーなど様々なパターンを追加
 - UI要素の追加：世代数カウンター、再生/停止ボタンなど
 
+---
+
 ## 参考資料
 
 - [Bevy公式ドキュメント](https://docs.rs/bevy/latest/bevy/)
@@ -632,3 +644,9 @@ fn main() {
 - [Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [Tainted Coder](https://taintedcoders.com/)
 - [ライフゲーム - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0)
+
+---
+
+:::message
+本記事は生成AI（Claude Code）を使用して作成し、筆者が内容を確認・編集しています
+:::
