@@ -6,8 +6,6 @@ topics:
   - "javascript"
   - "tips"
   - "safe"
-  - "テクニック"
-  - "安全"
 published: true
 published_at: "2026-01-18 14:21"
 ---
