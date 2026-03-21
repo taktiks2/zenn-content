@@ -9,6 +9,7 @@ topics:
   - "rust"
   - "devops"
 published: true
+published_at: "2026-03-21 11:00"
 ---
 
 # `just` を導入しよう — Makefile を超えたタスクランナー
