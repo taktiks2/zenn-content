@@ -1,5 +1,5 @@
 ---
-title: "`just` をチームに導入しよう — Makefile を超えたタスクランナー"
+title: "`just` を導入しよう — Makefile を超えたタスクランナー"
 emoji: "⚡"
 type: "tech"
 topics:
