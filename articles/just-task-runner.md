@@ -11,11 +11,11 @@ topics:
 published: true
 ---
 
-# `just` をチームに導入しよう — Makefile を超えたタスクランナー
+# `just` を導入しよう — Makefile を超えたタスクランナー
 
 ## はじめに
 
-プロジェクトを始めると、こんな場面によく遭遇しませんか？
+開発をしていると、こんな場面によく遭遇しませんか？
 
 - 「あれ、テストはどうやって実行するんだっけ？」
 - README に書いてあるコマンドが長くて毎回コピペしている
@@ -396,4 +396,13 @@ Makefile を「なんとなく」使っているチームや、README にコマ�
 
 ---
 
-*参考: [just 公式ドキュメント](https://just.systems/man/en/) / [GitHub](https://github.com/casey/just)*
+## 参考資料
+
+- [just 公式ドキュメント](https://just.systems/man/en/)
+- [GitHub](https://github.com/casey/just)
+
+---
+
+:::message
+本記事は生成AI（Claude Code）を使用して作成し、筆者が内容を確認・編集しています
+:::
